@@ -1,0 +1,2 @@
+scibian-reboot-notify /usr/bin
+scibian-reboot-notify.desktop /etc/xdg/autostart

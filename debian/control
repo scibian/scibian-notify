@@ -1,0 +1,12 @@
+Source: scibian-notify
+Section: edf
+Priority: extra
+Maintainer: Scibian Packaging Team <packaging@scibian.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.5
+
+Package: scibian-notify
+Architecture: all
+Depends: python-gobject, python-notify
+Description: Scibian desktop notifications
+ Notify user about some events like the need to reboot.

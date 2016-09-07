@@ -1,0 +1,5 @@
+scibian-notify (8.0) jessie; urgency=low
+
+  * Initial release.
+
+ -- Scibian Packaging Team <packaging@scibian.org>  Wed, 07 Sep 2016 15:15:48 +0200
