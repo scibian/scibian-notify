@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Scibian Reboot Notify
+Exec=/usr/bin/scibian-reboot-notify
+Terminal=false
+Type=Application
+Categories=

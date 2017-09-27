@@ -1,0 +1,12 @@
+Source: scibian-notify
+Section: scibian
+Priority: extra
+Maintainer: Scibian Packaging Team <packaging@scibian.org>
+Build-Depends: debhelper (>= 10)
+Standards-Version: 4.1.0
+
+Package: scibian-notify
+Architecture: all
+Depends: python-gobject, python-notify
+Description: Scibian desktop reboot notifications
+ Ask the user to reboot the computer if needed
