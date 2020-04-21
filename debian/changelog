@@ -1,5 +1,5 @@
-scibian-notify (9.0) scibian9; urgency=medium
+scibian-notify (10.0) scibian10; urgency=medium
 
-  * Initial release
+  * Initial S10 release 
 
- -- Scibian Packaging Team <packaging@scibian.org>  Wed, 27 Sep 2017 10:47:12 +0200
+ -- Scibian Packaging Team <packaging@scibian.org>  Tue, 11 Jun 2019 15:16:52 +0200
